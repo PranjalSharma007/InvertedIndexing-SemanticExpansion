@@ -1,0 +1,5 @@
+Q1: computer hardware problems
+Q2: space exploration mars
+Q3: medical treatment cancer
+Q4: software development
+Q5: artificial intelligence
